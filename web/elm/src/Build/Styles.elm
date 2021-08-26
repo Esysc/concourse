@@ -313,7 +313,7 @@ metadataCell cell =
 
 imageSteps : List (Html.Attribute msg)
 imageSteps =
-    [ style "padding" "10px"
+    [ style "padding" "12px"
     , style "background" Colors.backgroundDark
     ]
 
